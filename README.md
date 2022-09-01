@@ -24,7 +24,7 @@
 
 # Screeshots
 1. Anisotropic yield function: **Yld2000-2d**
-<p align="center"><img src="https://github.com/theysy/Convergence_MAP/blob/main/Screenshot/AA6022_YLD2K_CMAP.png"></p>
+<p align="center"><img src="https://github.com/theysy/Convergence_MAP_PUBLIC/blob/main/Screenshot/AA6022_YLD2K_CMAP.png"></p>
 
 2. Anisotropic hardening: **HAH<sub>20</sub>**
-<p align="center"><img src="https://github.com/theysy/Convergence_MAP/blob/main/Screenshot/AA6022_YLD2K_HAH20_CMAP.png"></p>
+<p align="center"><img src="https://github.com/theysy/Convergence_MAP_PUBLIC/blob/main/Screenshot/AA6022_YLD2K_HAH20_CMAP.png"></p>
