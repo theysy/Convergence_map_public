@@ -20,7 +20,7 @@
 # Prerequisites
   1. Intel or GNU fortran
   2. Python 3.6
-  3. Python packages: numpy, matplotlib
+  3. Python packages: numpy, matplotlib, pandas
 
 # Screeshots
 1. Anisotropic yield function: **Yld2000-2d**
